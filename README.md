@@ -1,6 +1,5 @@
 # Theology-Library-Final
-# Developed by Ellee Solutions &copy; 2018
-Web Application for Central Philippine University College of Theology Library with Book Locator
+# Web Application for Central Philippine University College of Theology Library with Book Locator
 
 Modules
 
@@ -13,3 +12,5 @@ Book Reservation <br>
 Admin Profiling <br>
 Cataloging <br>
 Book Locator <br>
+
+Developed by Ellee Solutions &copy; 2018
